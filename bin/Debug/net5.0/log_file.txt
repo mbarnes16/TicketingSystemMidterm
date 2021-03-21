@@ -1,0 +1,187 @@
+2021-03-19 14:15:48.2538|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-19 14:15:48.2905|ERROR|TicketingSystemMidterm.BugDefectTicket|Could not find file 'E:\.Net Programming\TicketingSystemMidterm\tickets.csv'.
+2021-03-19 14:15:48.2968|ERROR|TicketingSystemMidterm.EnhancementTicket|Could not find file 'E:\.Net Programming\TicketingSystemMidterm\enhancements.csv'.
+2021-03-19 14:15:48.2968|ERROR|TicketingSystemMidterm.TaskTicket|Could not find file 'E:\.Net Programming\TicketingSystemMidterm\tasks.csv'.
+2021-03-19 14:17:10.0220|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-19 14:17:16.0320|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-19 14:17:16.0667|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-19 14:17:16.0813|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 0
+2021-03-19 14:17:16.0884|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-19 14:17:36.4457|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 15:17:38.6009|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 15:17:38.6364|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 15:17:38.6478|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 0
+2021-03-21 15:17:38.6478|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 15:18:35.5068|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 15:56:00.9216|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 15:56:00.9676|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 15:56:00.9818|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 0
+2021-03-21 15:56:00.9882|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 15:56:02.4235|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 15:56:06.0317|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 15:56:12.2477|INFO|TicketingSystemMidterm.Program|Ticket choice: ""
+2021-03-21 15:57:10.6902|INFO|TicketingSystemMidterm.Program|Ticket choice: ""
+2021-03-21 15:57:11.3462|INFO|TicketingSystemMidterm.Program|Ticket choice: ""
+2021-03-21 15:57:11.5921|INFO|TicketingSystemMidterm.Program|Ticket choice: ""
+2021-03-21 15:59:18.3294|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 15:59:18.3656|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 15:59:18.3774|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 0
+2021-03-21 15:59:18.3774|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 15:59:23.2074|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 15:59:26.1354|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 15:59:52.5018|ERROR|TicketingSystemMidterm.BugDefectTicket|Sequence contains no elements
+2021-03-21 15:59:56.8135|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 15:59:58.0035|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 16:00:57.0582|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 16:00:58.5351|INFO|TicketingSystemMidterm.Program|Ticket choice: "2"
+2021-03-21 16:01:03.5632|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 16:01:09.3310|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 16:03:57.0982|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 16:03:57.7822|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 16:03:57.9778|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 16:03:58.1367|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 16:03:58.2853|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 16:03:58.4135|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 16:03:58.5581|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 16:04:06.4450|INFO|TicketingSystemMidterm.Program|User choice: "3"
+2021-03-21 16:04:58.0663|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 16:04:58.1010|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 16:04:58.1132|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 0
+2021-03-21 16:04:58.1132|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 16:05:06.8681|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 16:05:08.3222|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 16:05:22.4780|ERROR|TicketingSystemMidterm.BugDefectTicket|Sequence contains no elements
+2021-03-21 16:06:27.2769|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 16:06:27.2829|INFO|TicketingSystemMidterm.Program|Program ended
+2021-03-21 16:16:53.7967|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 16:16:53.8310|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 16:16:53.8310|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 0
+2021-03-21 16:16:53.8499|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 16:16:56.9635|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 16:16:59.2943|INFO|TicketingSystemMidterm.Program|Ticket choice: "2"
+2021-03-21 16:17:21.1320|ERROR|TicketingSystemMidterm.EnhancementTicket|Sequence contains no elements
+2021-03-21 16:41:16.1897|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 16:41:16.1897|INFO|TicketingSystemMidterm.Program|Program ended
+2021-03-21 16:41:50.6459|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 16:41:50.6813|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 16:41:50.6930|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 0
+2021-03-21 16:41:50.6930|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 16:41:57.4196|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 16:41:59.5571|INFO|TicketingSystemMidterm.Program|Ticket choice: "2"
+2021-03-21 16:42:14.8157|ERROR|TicketingSystemMidterm.EnhancementTicket|Sequence contains no elements
+2021-03-21 16:42:18.3752|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 16:57:28.7833|INFO|TicketingSystemMidterm.Program|Ticket choice: ""
+2021-03-21 16:57:30.2250|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 16:57:30.2250|INFO|TicketingSystemMidterm.Program|Program ended
+2021-03-21 16:57:34.8899|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 16:57:34.9242|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 16:57:34.9242|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 0
+2021-03-21 16:57:34.9432|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 16:57:38.8188|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 16:57:40.6208|INFO|TicketingSystemMidterm.Program|Ticket choice: "2"
+2021-03-21 16:57:56.9429|ERROR|TicketingSystemMidterm.EnhancementTicket|Sequence contains no elements
+2021-03-21 17:00:47.9289|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 17:00:47.9289|INFO|TicketingSystemMidterm.Program|Program ended
+2021-03-21 17:14:40.1740|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 17:14:40.2088|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 17:14:40.2208|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 0
+2021-03-21 17:14:40.2208|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 17:14:44.5875|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 17:14:46.6627|INFO|TicketingSystemMidterm.Program|Ticket choice: "2"
+2021-03-21 17:14:58.8866|ERROR|TicketingSystemMidterm.EnhancementTicket|Sequence contains no elements
+2021-03-21 17:16:01.2796|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 17:16:01.2857|INFO|TicketingSystemMidterm.Program|Program ended
+2021-03-21 17:16:10.0440|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 17:16:10.0784|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 17:16:10.0906|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 0
+2021-03-21 17:16:10.0977|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 17:16:10.9071|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 17:16:12.8739|INFO|TicketingSystemMidterm.Program|Ticket choice: "2"
+2021-03-21 17:16:23.3120|ERROR|TicketingSystemMidterm.EnhancementTicket|Sequence contains no elements
+2021-03-21 17:16:27.1864|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:16:29.9475|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 17:19:26.4135|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 17:19:26.4494|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 17:19:26.4622|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 0
+2021-03-21 17:19:26.4622|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 17:19:28.2927|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 17:19:30.5126|INFO|TicketingSystemMidterm.Program|Ticket choice: "2"
+2021-03-21 17:19:42.1317|INFO|TicketingSystemMidterm.EnhancementTicket|Ticket ID 1 added
+2021-03-21 17:19:49.8177|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:19:51.9370|INFO|TicketingSystemMidterm.Program|Ticket choice: "2"
+2021-03-21 17:21:34.0695|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 17:21:34.0695|INFO|TicketingSystemMidterm.Program|Program ended
+2021-03-21 17:21:52.3305|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 17:21:52.3654|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 17:21:52.3781|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 1
+2021-03-21 17:21:52.3781|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 17:21:59.1399|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 17:21:59.1450|INFO|TicketingSystemMidterm.Program|Program ended
+2021-03-21 17:26:36.5405|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 17:26:36.5753|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 0
+2021-03-21 17:26:36.5883|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 1
+2021-03-21 17:26:36.5961|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 17:26:40.1151|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 17:26:41.9951|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 17:27:01.4142|INFO|TicketingSystemMidterm.BugDefectTicket|Ticket ID 1 added
+2021-03-21 17:27:08.8416|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:27:14.2432|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 17:30:27.9817|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 17:30:27.9881|INFO|TicketingSystemMidterm.Program|Program ended
+2021-03-21 17:31:26.6511|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 17:31:26.6867|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 1
+2021-03-21 17:31:26.6997|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 1
+2021-03-21 17:31:26.7067|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 0
+2021-03-21 17:31:30.0594|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 17:31:31.7125|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 17:31:41.6826|INFO|TicketingSystemMidterm.BugDefectTicket|Ticket ID 2 added
+2021-03-21 17:31:44.9472|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:31:47.9556|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 17:34:38.9430|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 17:34:40.7957|INFO|TicketingSystemMidterm.Program|Ticket choice: "3"
+2021-03-21 17:34:50.4785|INFO|TicketingSystemMidterm.TaskTicket|Ticket ID 1 added
+2021-03-21 17:34:52.4873|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:34:53.8676|INFO|TicketingSystemMidterm.Program|Ticket choice: "3"
+2021-03-21 17:36:30.5928|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:36:31.8266|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 17:36:34.2553|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:36:35.1783|INFO|TicketingSystemMidterm.Program|Ticket choice: "2"
+2021-03-21 17:40:26.1490|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 17:40:28.3480|INFO|TicketingSystemMidterm.Program|Ticket choice: "3"
+2021-03-21 17:40:44.9927|INFO|TicketingSystemMidterm.TaskTicket|Ticket ID 2 added
+2021-03-21 17:40:48.3518|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:40:49.9583|INFO|TicketingSystemMidterm.Program|Ticket choice: "3"
+2021-03-21 17:41:56.8107|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 17:41:56.8166|INFO|TicketingSystemMidterm.Program|Program ended
+2021-03-21 17:55:11.2647|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 17:55:11.3041|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 2
+2021-03-21 17:55:11.3173|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 1
+2021-03-21 17:55:11.3173|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 2
+2021-03-21 17:55:17.2688|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:55:20.3919|INFO|TicketingSystemMidterm.Program|Ticket choice: "3"
+2021-03-21 17:55:23.3775|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 17:55:26.1570|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 17:55:32.6416|INFO|TicketingSystemMidterm.BugDefectTicket|Ticket ID 3 added
+2021-03-21 17:55:35.5233|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:55:36.9906|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 17:56:15.2266|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 17:56:15.2266|INFO|TicketingSystemMidterm.Program|Program ended
+2021-03-21 17:56:22.4438|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 17:56:22.4788|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 3
+2021-03-21 17:56:22.4917|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 1
+2021-03-21 17:56:22.4917|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 2
+2021-03-21 17:56:26.6864|INFO|TicketingSystemMidterm.Program|User choice: "2"
+2021-03-21 17:56:27.7210|INFO|TicketingSystemMidterm.Program|Ticket choice: "3"
+2021-03-21 17:56:35.1110|INFO|TicketingSystemMidterm.TaskTicket|Ticket ID 3 added
+2021-03-21 17:56:37.0381|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:56:38.4038|INFO|TicketingSystemMidterm.Program|Ticket choice: "3"
+2021-03-21 17:57:29.0673|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 17:57:29.0673|INFO|TicketingSystemMidterm.Program|Program ended
+2021-03-21 17:57:57.8432|INFO|TicketingSystemMidterm.Program|Program started
+2021-03-21 17:57:57.8835|INFO|TicketingSystemMidterm.BugDefectTicket|Tickets in file: 1
+2021-03-21 17:57:57.8963|INFO|TicketingSystemMidterm.EnhancementTicket|Tickets in file: 1
+2021-03-21 17:57:57.9078|INFO|TicketingSystemMidterm.TaskTicket|Tickets in file: 1
+2021-03-21 17:58:05.5339|INFO|TicketingSystemMidterm.Program|User choice: "1"
+2021-03-21 17:58:06.2594|INFO|TicketingSystemMidterm.Program|Ticket choice: "1"
+2021-03-21 18:04:04.2520|INFO|TicketingSystemMidterm.Program|User choice: ""
+2021-03-21 18:04:04.2520|INFO|TicketingSystemMidterm.Program|Program ended
