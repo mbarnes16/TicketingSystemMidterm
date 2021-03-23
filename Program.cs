@@ -2,6 +2,7 @@
 using System;
 using System.IO;
 using NLog.Web;
+using System.Linq;
 
 namespace TicketingSystemMidterm
 {
@@ -185,8 +186,73 @@ namespace TicketingSystemMidterm
 
                     }
                 }
+                if (choice == "3")
+                {
+                    display.searchTicketChoice();
+                    string searchChoice = Console.ReadLine();
+                    logger.Info("Search choice: {searchChoice}", searchChoice);
+
+                    if(searchChoice == "1")
+                    {
+                        Console.WriteLine("Enter Ticket Status");
+                        string statusInput = Console.ReadLine();
+
+                        var statusBugDefectSearch = bugDefectTicket.BugDefectTickets.Where(m => m.status.ToLower().Contains($"{statusInput}"));
+                        var statusEnhancementSearch = enhancementTicket.EnhancementTickets.Where(m => m.status.ToLower().Contains($"{statusInput}"));
+                        var statusTaskSearch = taskTicket.TaskTickets.Where(m => m.status.ToLower().Contains($"{statusInput}"));
+
+                        Console.WriteLine($"There are {statusBugDefectSearch.Count()+statusTaskSearch.Count()+statusEnhancementSearch.Count()} {statusInput} status tickets:\n");
+                        
+                        Console.WriteLine("Bug Defect Tickets:");
+                        foreach (BugDefect m in statusBugDefectSearch){ Console.WriteLine($"{m.DisplayTicket()}"); }
+
+                        Console.WriteLine("Enhancement Tickets:");
+                        foreach (Enhancement m in statusEnhancementSearch){ Console.WriteLine($"{m.DisplayTicket()}"); }
+
+                        Console.WriteLine("Task Tickets:");
+                        foreach (Task m in statusTaskSearch){ Console.WriteLine($"{m.DisplayTicket()}"); }
+                    }
+                    if(searchChoice == "2")
+                    {
+                        Console.WriteLine("Enter Ticket Priority");
+                        string priorityInput = Console.ReadLine();
+
+                        var priorityBugDefectSearch = bugDefectTicket.BugDefectTickets.Where(m => m.priority.ToLower().Contains($"{priorityInput}"));
+                        var priorityEnhancementSearch = enhancementTicket.EnhancementTickets.Where(m => m.priority.ToLower().Contains($"{priorityInput}"));
+                        var priorityTaskSearch = taskTicket.TaskTickets.Where(m => m.priority.ToLower().Contains($"{priorityInput}"));
+
+                        Console.WriteLine($"There are {priorityBugDefectSearch.Count()+priorityEnhancementSearch.Count()+priorityTaskSearch.Count()} {priorityInput} tickets:\n");
+                        
+                        Console.WriteLine("Bug Defect Tickets:");
+                        foreach (BugDefect m in priorityBugDefectSearch){ Console.WriteLine($" {m.DisplayTicket()}"); }
+
+                        Console.WriteLine("Enhancement Tickets:");
+                        foreach (Enhancement m in priorityEnhancementSearch){ Console.WriteLine($" {m.DisplayTicket()}"); }
+                        Console.WriteLine("Task Tickets:");
+                        foreach (Task m in priorityTaskSearch){ Console.WriteLine($" {m.DisplayTicket()}"); }
+                    } 
+                    if (searchChoice == "3")
+                    {
+                        Console.WriteLine("Enter Ticket Submitter");
+                        string submitterInput = Console.ReadLine();
+
+                        var submitterBugDefectSearch = bugDefectTicket.BugDefectTickets.Where(m => m.submitter.ToLower().Contains($"{submitterInput}"));
+                        var submitterEnhancementSearch = enhancementTicket.EnhancementTickets.Where(m => m.submitter.ToLower().Contains($"{submitterInput}"));
+                        var submitterTaskSearch = taskTicket.TaskTickets.Where(m => m.submitter.ToLower().Contains($"{submitterInput}"));
+
+                        Console.WriteLine($"There are {submitterBugDefectSearch.Count()+submitterEnhancementSearch.Count()+submitterTaskSearch.Count()} tickets submitted by {submitterInput}:\n");
+                        
+                        Console.WriteLine("Bug Defect Tickets:");
+                        foreach (BugDefect m in submitterBugDefectSearch){ Console.WriteLine($" {m.DisplayTicket()}"); }
+
+                        Console.WriteLine("Enhancement Tickets:");
+                        foreach (Enhancement m in submitterEnhancementSearch){ Console.WriteLine($" {m.DisplayTicket()}"); }
+                        Console.WriteLine("Task Tickets:");
+                        foreach (Task m in submitterTaskSearch){ Console.WriteLine($" {m.DisplayTicket()}"); }
+                    }
+                }
             } 
-            while (choice == "1" || choice == "2");
+            while (choice == "1" || choice == "2" || choice == "3");
             logger.Info("Program ended");
         }
     }
